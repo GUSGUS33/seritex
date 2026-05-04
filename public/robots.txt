@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /presupuesto/gracias/
+Disallow: /aviso-legal/
+Disallow: /politica-privacidad/
+Disallow: /politica-cookies/
+Disallow: /condiciones-servicio/
+
+Sitemap: https://serigrafia-textil.es/sitemap.xml
